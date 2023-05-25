@@ -3,3 +3,7 @@ In this repo my analysis of f1 using fast f1 api will be given we also use vario
 this repo is a perfect mix of love towards my f1 and data anyltics 
 
 
+
+
+
+
